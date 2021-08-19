@@ -1,0 +1,14 @@
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.csproj.AssemblyReference.cache
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.AssemblyInfoInputs.cache
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.AssemblyInfo.cs
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.csproj.CoreCompileInputs.cache
+C:\Users\roger\repos\VariableEx\VariableEx\bin\Debug\netcoreapp3.1\VariableEx.exe
+C:\Users\roger\repos\VariableEx\VariableEx\bin\Debug\netcoreapp3.1\VariableEx.deps.json
+C:\Users\roger\repos\VariableEx\VariableEx\bin\Debug\netcoreapp3.1\VariableEx.runtimeconfig.json
+C:\Users\roger\repos\VariableEx\VariableEx\bin\Debug\netcoreapp3.1\VariableEx.runtimeconfig.dev.json
+C:\Users\roger\repos\VariableEx\VariableEx\bin\Debug\netcoreapp3.1\VariableEx.dll
+C:\Users\roger\repos\VariableEx\VariableEx\bin\Debug\netcoreapp3.1\VariableEx.pdb
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.dll
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.pdb
+C:\Users\roger\repos\VariableEx\VariableEx\obj\Debug\netcoreapp3.1\VariableEx.genruntimeconfig.cache
